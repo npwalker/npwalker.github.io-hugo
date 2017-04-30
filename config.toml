@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://npwalker.github.io/"
 languageCode = "en-us"
 title = "Nick's Blog"
 MetaDataFormat = "toml"
