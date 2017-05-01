@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:npwalker/npwalker.github.io.git
 	branch = master
+[submodule "themes/hyde-x"]
+	path = themes/hyde-x
+	url = git@github.com:npwalker/hyde-x.git
+	branch = master
